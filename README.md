@@ -1,60 +1,61 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="waving hand"/> I'm Ahad</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="waving hand"/> I'm Ahad Hossain</h1>
 
-<h2 align="center">Full-Stack Developer | Building Scalable APIs, SaaS Products & Marketplaces</h2>
+<h3 align="center">Full-Stack Developer — Node.js · TypeScript · Next.js · PostgreSQL</h3>
 
 <p align="center">
-💻 I build modern, scalable, production-ready web applications using <b>Node.js, TypeScript, Express, Next.js, PostgreSQL, TypeORM, Redis, and BullMQ</b> — from clean REST APIs and background job pipelines to full multi-tenant SaaS platforms.
-<br/><br/>
-🚀 I also handle deployment end-to-end: <b>DigitalOcean, AWS EC2, Nginx, PM2, CI/CD</b>.
+  <a href="https://ahad-hossain.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ahad--hossain.netlify.app-0891b2?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:ahad.devops@gmail.com"><img src="https://img.shields.io/badge/Email-ahad.devops%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ahad-hossain-b37492216"><img src="https://img.shields.io/badge/LinkedIn-Ahad_Hossain-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/8801790156861"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
-- 🖥️ See my portfolio at [ahad-hossain.netlify.app](https://ahad-hossain.netlify.app)
-- ✉️ You can contact me at [ahad.devops@gmail.com](mailto:ahad.devops@gmail.com)
-- 📦 Creator of [`create-ahad-backend`](https://www.npmjs.com/package/create-ahad-backend) & [`create-ahad-frontend`](https://www.npmjs.com/package/create-ahad-frontend) — CLI scaffolding tools on npm
-- 🧠 Always learning something new
+---
 
-### Skills
+### 👨‍💻 About Me
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" /></a>
-<a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nginx-colored.svg" width="36" height="36" alt="Nginx" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
+- 🔭 Full-stack developer specializing in **backend-heavy applications** — REST APIs, background job pipelines, and multi-tenant SaaS platforms
+- 🛠️ I ship **production systems end-to-end**: from database design and API architecture to deployment on **AWS EC2 / DigitalOcean** with **Nginx, PM2, and CI/CD**
+- 💼 **Open to full-time roles and freelance projects** (remote-friendly, based in Bangladesh 🇧🇩)
+- 📫 Fastest way to reach me: [ahad.devops@gmail.com](mailto:ahad.devops@gmail.com)
+
+### 🧰 Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0891b2?style=flat-square) ![BullMQ](https://img.shields.io/badge/BullMQ-D42029?style=flat-square) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **Fatexia** | CPA affiliate network with an in-house click tracker, 3-layer fraud detection pipeline (datacenter filter → residential-proxy detection → conversion-timing checks), rule-based payout engine, S2S postbacks, and real-time reporting | Node.js, TypeScript, PostgreSQL, TypeORM, Redis, BullMQ |
+| **Biyekoralagbe** | Matrimony platform for Bangladesh — Real-time chatting system, guardian mode, match discovery with distance, wallet payments via bKash/Nagad, PDF biodata generation, and full Bangla/English support | Next.js, TypeScript, Node.js, PostgreSQL |
+| **GearUp** | Sports & outdoor gear rental marketplace API — listings, bookings, payments, and role-based access | Node.js, Express, TypeScript, PostgreSQL, TypeORM |
+| **StoreTunnel** | Multi-tenant e-commerce SaaS — marketing site and platform for launching online stores | Next.js, TypeScript, Tailwind CSS |
+| **LeadHarvest** | Chrome extension for scraping and organizing business leads | JavaScript, Chrome Extension APIs |
+
+> 🔗 Live demos and case studies on my [portfolio](https://ahad-hossain.netlify.app)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-orcin-eight-93.vercel.app/api/?username=ahadverse&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&cache_seconds=14400" alt="GitHub Stats" width="50%"/>
 </p>
 
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/ahadverse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/ahad-hossain-b37492216" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-<a href="https://wa.me/8801790156861" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="32" height="32" alt="WhatsApp" /></a>
-<a href="https://www.facebook.com/aj.ahad.127" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ahadverse&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="50%"/>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<p align="left">
-<a href="http://www.github.com/ahadverse"><img src="https://github-readme-stats.vercel.app/api?username=ahadverse&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" /></a>
+<p align="center">
+  <img src="https://github-readme-stats-orcin-eight-93.vercel.app/api/top-langs/?username=ahadverse&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=14400" alt="Top Languages" width="45%"/>
 </p>
 
-<p align="left">
-<a href="http://www.github.com/ahadverse"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadverse&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahadverse&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="92%"/>
 </p>
 
-<p align="left">
-<a href="http://www.github.com/ahadverse"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadverse&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" /></a>
-</p>

@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer — Node.js · TypeScript · Next.js · PostgreSQL</h3>
 
 <p align="center">
-  <a href="https://ahad-hossain.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ahad--hossain.netlify.app-0891b2?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://ahad-hossain.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ahad--hossain.vercel.app-0891b2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:ahad.devops@gmail.com"><img src="https://img.shields.io/badge/Email-ahad.devops%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/ahad-hossain-b37492216"><img src="https://img.shields.io/badge/LinkedIn-Ahad_Hossain-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wa.me/8801790156861"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
